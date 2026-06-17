@@ -108,19 +108,6 @@ Cloud Fundamentals
 Containerization
 ```
 
----
-
-## Artificial Intelligence
-
-```python
-Prompt Engineering
-Large Language Models (LLMs)
-AI Automation
-Generative AI
-Llama Models
-AI Security Concepts
-```
-
 # 📬 Connect With Me
 
 ### GitHub
