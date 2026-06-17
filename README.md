@@ -66,6 +66,7 @@ JavaScript
 Thymeleaf
 Bootstrap
 Responsive UI Design
+<img src="https://www.readmecodegen.com/api/social-icon?name=react&size=96" alt="react" />
 ```
 
 ---
