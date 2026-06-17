@@ -32,11 +32,11 @@ Currently, I am building real-world projects that combine:
 ## Programming Languages
 
 ```java
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Java
+JavaScript
+SQL
+HTML5
+CSS3
 ```
 
 ---
@@ -121,150 +121,6 @@ Llama Models
 AI Security Concepts
 ```
 
----
-
-# 🏗️ Current Engineering Focus
-
-Currently strengthening my expertise in:
-
-- Advanced Spring Boot
-- Microservices Architecture
-- Spring Security
-- Docker & Containerization
-- AWS Cloud Services
-- System Design
-- Distributed Systems
-- AI Integration in Web Applications
-
----
-
-# 📂 Featured Projects
-
-## 🏦 Banking Management System
-
-### Tech Stack
-
-```text
-Spring Boot
-Spring Data JPA
-Hibernate
-MySQL
-Thymeleaf
-```
-
-### Features
-
-✔ Create Bank Accounts
-
-✔ Deposit Money
-
-✔ Withdraw Money
-
-✔ Delete Accounts
-
-✔ Dynamic Thymeleaf UI
-
-✔ Validation Handling
-
-✔ Hibernate ORM Integration
-
-✔ MySQL Database Persistence
-
-### Key Learnings
-
-- MVC Architecture
-- Dependency Injection
-- JPA Repositories
-- Thymeleaf Integration
-- Exception Handling
-- Service Layer Design
-
----
-
-## ⚖️ Intelligent Legal Decision Support System
-
-AI-powered legal assistance platform designed to support legal reasoning based on constitutional principles.
-
-### Tech Stack
-
-```text
-Llama Models
-Spring Boot
-AI Automation
-Natural Language Processing
-```
-
-### Features
-
-✔ Legal Query Processing
-
-✔ Constitutional Reference Assistance
-
-✔ AI-Based Response Generation
-
-✔ Legal Knowledge Retrieval
-
----
-
-## 🌍 Travel Explorer Application
-
-Travel recommendation and destination discovery platform.
-
-### Features
-
-✔ Destination Search
-
-✔ Travel Recommendations
-
-✔ Dynamic User Interface
-
-✔ Scalable Backend Architecture
-
----
-
-# 🔐 Security Interests
-
-I actively explore:
-
-- Authentication Systems
-- Authorization Mechanisms
-- JWT Security
-- RBAC Models
-- Prompt Injection Defense
-- AI Security
-- Secure Coding Practices
-- Security Monitoring Concepts
-
----
-
-# 📚 Learning Roadmap
-
-```text
-Java Core
-    ↓
-Collections & Streams
-    ↓
-Spring Framework
-    ↓
-Spring Boot
-    ↓
-REST APIs
-    ↓
-Spring Security
-    ↓
-Microservices
-    ↓
-Docker
-    ↓
-AWS
-    ↓
-System Design
-    ↓
-Distributed Systems
-```
-
----
-
 # 📈 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imakasharul&show_icons=true&theme=tokyonight)
@@ -272,30 +128,6 @@ Distributed Systems
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imakasharul&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=imakasharul&theme=tokyonight)
-
----
-
-# 🏆 Engineering Principles
-
-- Write Clean Code
-- Build Scalable Systems
-- Design Maintainable Architecture
-- Learn Continuously
-- Automate Repetitive Tasks
-- Focus on Security
-- Solve Real-World Problems
-
----
-
-# 🎯 2026 Goals
-
-- Build 10+ Production-Ready Spring Boot Projects
-- Master Spring Security
-- Learn Microservices Architecture
-- Deploy Applications on AWS
-- Strengthen System Design Skills
-- Contribute to Open Source Projects
-- Become a Professional Java Full Stack Developer
 
 ---
 
